@@ -4,4 +4,4 @@ On the local run using
 pip install -r requirements.txt  
 streamlit run app.py  
 
-Please have a look at notebook file
+Please have a look at notebook file and observations from data files
