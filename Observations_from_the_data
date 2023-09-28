@@ -1,0 +1,8 @@
+HRA dataset has 14999 employee details and 10 attributes.
+We can see that on average the employees who left the company has relatively low satisfaction level, low promotion rate.
+Also their average_monthly_hours and time_spend_company are more than who stay in the company now.
+We can see that a total of 3571 emplyees left the company out of 15000, which is almost 23% of total number of employees present in the company.
+We can see that a very less number of people got promotion in the last 5 years.
+The employees with more than 5 projects were most likely to leave the job because they might have felt work pressure, from the above plot.
+We can see that most employees who leave the job are low or medium range salary employees.
+Employees are leaving the job if they dont get promotion for 5 years.
